@@ -1,12 +1,12 @@
 # go-get-go
 
-## What is go ?
+# What is go ?
 Go is a statically typed, compiled programming language
 
-## Some common components.
+# Some common components.
 goPath:
 
-##variables:
+# variables:
 packages :
 functions :
 interfaces :
